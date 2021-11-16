@@ -1,0 +1,12 @@
+{
+    "name": "kirin/server",
+    "authors": [
+        {
+            "name": "kirin",
+            "email": "syfall6@gmail.com"
+        }
+    ],
+    "require": {
+        "authorizenet/authorizenet": "^2.0"
+    }
+}
